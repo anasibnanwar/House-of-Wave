@@ -1,3 +1,5 @@
+
+
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("inviteForm");
   const confirmation = document.getElementById("confirmation");
